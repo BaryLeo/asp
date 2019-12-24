@@ -1,0 +1,35 @@
+﻿body {
+    padding-left: 460px;
+}
+
+
+.logo {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.promotion-banner {
+    float: left;
+}
+
+.login-section {
+    float: left;
+    margin-top: 28px;
+    margin-left: 100px;
+    line-height: 60px;
+}
+
+.text-box {
+    width: 270px;
+    height: 30px;
+}
+
+.login-button {
+    margin-left:36px;
+    width: 276px;
+    height: 40px;
+    background-color:#ffc300;
+    border-radius:6px;
+    border:none;
+}
+
